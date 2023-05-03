@@ -13,3 +13,6 @@ obj
 v17
 FileContentIndex
 packages
+.vs
+ProjectEvaluation
+DesignTimeBuild
