@@ -28,7 +28,7 @@ namespace AmarTestProject.StepDefinitions
             var departmentDropdown = driver.FindElement(By.XPath("//*[@id='searchDropdownBox']"));
             //Select user input department
             SelectElement myFirstDropdownAutomaiton = new SelectElement(departmentDropdown);
-            myFirstDropdownAutomaiton.SelectByValue(department);
+            myFirstDropdownAutomaiton.SelectByText(department);
 
             //Dropdown automaiton
             //1. find select element using normal locator technique mechanism
@@ -52,6 +52,7 @@ namespace AmarTestProject.StepDefinitions
         {
             var departmentInSearchResults = driver.FindElement(By.XPath($"//span[@class='a-list-item']/span[text() =\"{searchResultsKey}\"]"));
             Assert.IsTrue(departmentInSearchResults.Displayed, "Not able to find search key in results");
+            driver.Quit();
         }
 
        
