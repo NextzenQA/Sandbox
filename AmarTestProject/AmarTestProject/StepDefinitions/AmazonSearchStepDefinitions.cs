@@ -17,6 +17,7 @@ namespace AmarTestProject.StepDefinitions
         [Given(@"I am amazon search")]
         public void GivenIAmAmazonSearch()
         {
+            //Here you go
             ObjectRepository.Driver.Navigate().GoToUrl("https://www.amazon.com");
         }
 
