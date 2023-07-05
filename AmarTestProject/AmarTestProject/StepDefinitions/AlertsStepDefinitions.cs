@@ -10,7 +10,8 @@ namespace AmarTestProject.StepDefinitions
     public class AlertsStepDefinitions
     {
 
-
+    //Murali and Pavan are good
+    //Sabitha and Krishna are bad
 
         [Given(@"I am on cher cher practice popups page")]
         public void GivenIAmOnCherCherPracticePopupsPage()
