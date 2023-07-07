@@ -14,6 +14,8 @@ namespace AmarTestProject.Hooks
         public void BeforeScenario()
         {
             ObjectRepository.Driver = new ChromeDriver();
+            //Implicit Wait imlimentation
+            ObjectRepository.Driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(30);
         }
 
         [AfterScenario]
