@@ -11,7 +11,7 @@ namespace AmarTestProject.StepDefinitions
     public class AmazonSearchStepDefinitions
     {
         IWebDriver driver;
-
+        //google chorme web driver
         [Given(@"I am amazon search")]
         public void GivenIAmAmazonSearch()
         {
