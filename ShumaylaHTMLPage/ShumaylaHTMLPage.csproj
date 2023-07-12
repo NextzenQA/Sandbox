@@ -1,23 +1,51 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+﻿<html>
+	<head>
+		<title>   Nextzen Registration form    </title>
+	</head>
 
-  <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
-    <Nullable>enable</Nullable>
-    <ImplicitUsings>enable</ImplicitUsings>
-  </PropertyGroup>
+	<body>
+		<form>
+			</h1>
+			<center>
+				<b> Nextzen Registration form </b>
+			</center>
+			</h1>
+			<br/>
+			<br/>
 
-  <ItemGroup>
-    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.0.0" />
-    <PackageReference Include="SpecFlow.Plus.LivingDocPlugin" Version="3.9.57" />
-    <PackageReference Include="SpecFlow.NUnit" Version="3.9.40" />
-    <PackageReference Include="nunit" Version="3.13.2" />
-    <PackageReference Include="NUnit3TestAdapter" Version="4.1.0" />
-    <PackageReference Include="FluentAssertions" Version="6.2.0" />
-  </ItemGroup>
+			<label> First Name: </label>
+			<input type= "text" name= "FirstName" required="">
+				<br/>
+				<br/>
 
-  <ItemGroup>
-    <Folder Include="Drivers\" />
-    <Folder Include="Support\" />
-  </ItemGroup>
+				<label> Last Name: </label>
+				<input type= "text" name= "LastName" required="">
+					<br/>
+					<br/>
 
-</Project>
+					<label> E-mail ID:  </label>
+					<input type= "text" name= "E-mailID" required="">
+						<br/>
+						<br/>
+
+						<label> University: </label>
+						<select>
+							<option value= "SEMO"> SOUTHEAST MISSOURI STATE UNIVERSITY </option>
+							<br/>
+							<option value= "WORSHU"> WASHINGTON UNIVERSITY </option>
+							<br/>
+							<option value= "SLU"> SAINT LOUIS UNIVERSITY </option>
+							<br/>
+							<option value= "UMSAL"> SAINT LOUIS STATE UNIVERSITY </option>
+							<br/>
+						</select>
+						<br/>
+						<br/>
+
+						<input type="submit" />
+
+					</form>
+
+	</body>
+
+</html>
