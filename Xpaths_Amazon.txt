@@ -1,0 +1,11 @@
+Amazon web page Xpaths:
+1. //div[@id="a-page"]
+2. //input[@type="search"]
+3. //div[@id="nav-logo"]
+4. //input[@type="text"]
+5. //input[@type="submit" and @value="Go"]
+6. //form[@name="ue_backdetect" and @action="get"]
+7. //body[@id="t" and @class="neterror" and @jstcache="0"] 
+8. //input[@id="glowValidationToken"]
+9. //span[@id="nav-global-location-data-modal-action"]
+10.//span[@class="nav-sprite nav-logo-base"]
