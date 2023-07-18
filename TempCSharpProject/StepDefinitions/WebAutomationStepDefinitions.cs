@@ -31,7 +31,10 @@ namespace TempCSharpProject.StepDefinitions
 
 
             ChromeDriver driver = new ChromeDriver();
-            driver.Navigate().GoToUrl("https://www.amazon.com");
+            // driver.Navigate().GoToUrl("https://www.amazon.com");
+            //driver.Navigate().GoToUrl("https://www.googlecrome.com"); ---not working
+            driver.Navigate().GoToUrl("https://www.w3schools.com");
+
             driver.Manage().Window.Maximize();
 
         }

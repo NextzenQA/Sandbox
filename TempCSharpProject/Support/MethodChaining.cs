@@ -9,7 +9,7 @@ namespace TempCSharpProject.Support
 {
     public class MethodChaining
     {
-        public static Intern intern;
+        //public static Intern intern;
         public MethodChaining Method1()
         {
             return this;
