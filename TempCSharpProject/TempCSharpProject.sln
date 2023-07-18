@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempCSharpProject", "TempCSharpProject.csproj", "{E7FABDD6-A2C3-495F-9342-A78A531CCDDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7FABDD6-A2C3-495F-9342-A78A531CCDDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7FABDD6-A2C3-495F-9342-A78A531CCDDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7FABDD6-A2C3-495F-9342-A78A531CCDDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7FABDD6-A2C3-495F-9342-A78A531CCDDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A7021FE-5B31-4140-9890-079DC5C68434}
+	EndGlobalSection
+EndGlobal
