@@ -24,7 +24,7 @@ namespace CSharpFundamentalsPavan.StepDefinitions
             Console.WriteLine(Intern.InternshipRole);
             
             //Method Chaining
-            MethodChaining chaining = new MethodChaining();
+            MethodChaining chaining = new MethodChaining()
             chaining.Method1().Method3();
             */
 
