@@ -1,0 +1,11 @@
+//input[@data-addnewaddress="add-new"]
+//input[@type="text"]
+//div[@id="a-page"]
+//input[@type="hidden"]
+//div[@id="glow-ingress-block"]
+//input[@id="glowValidationToken"]
+//div[@id="nav-upnav"]
+//input[@type="checkbox"]
+//div[@id="nav-belt"]
+//div[@id="nav-search-dropdown-card"]
+
