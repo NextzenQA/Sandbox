@@ -1,0 +1,15 @@
+C:\QA_REpositry\Sandbox\ShumaylaConsoleApp\bin\Debug\net6.0\ShumaylaConsoleApp.exe
+C:\QA_REpositry\Sandbox\ShumaylaConsoleApp\bin\Debug\net6.0\ShumaylaConsoleApp.deps.json
+C:\QA_REpositry\Sandbox\ShumaylaConsoleApp\bin\Debug\net6.0\ShumaylaConsoleApp.runtimeconfig.json
+C:\QA_REpositry\Sandbox\ShumaylaConsoleApp\bin\Debug\net6.0\ShumaylaConsoleApp.dll
+C:\QA_REpositry\Sandbox\ShumaylaConsoleApp\bin\Debug\net6.0\ShumaylaConsoleApp.pdb
+C:\QA_REpositry\Sandbox\ShumaylaConsoleApp\obj\Debug\net6.0\ShumaylaConsoleApp.csproj.AssemblyReference.cache
+C:\QA_REpositry\Sandbox\ShumaylaConsoleApp\obj\Debug\net6.0\ShumaylaConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\QA_REpositry\Sandbox\ShumaylaConsoleApp\obj\Debug\net6.0\ShumaylaConsoleApp.AssemblyInfoInputs.cache
+C:\QA_REpositry\Sandbox\ShumaylaConsoleApp\obj\Debug\net6.0\ShumaylaConsoleApp.AssemblyInfo.cs
+C:\QA_REpositry\Sandbox\ShumaylaConsoleApp\obj\Debug\net6.0\ShumaylaConsoleApp.csproj.CoreCompileInputs.cache
+C:\QA_REpositry\Sandbox\ShumaylaConsoleApp\obj\Debug\net6.0\ShumaylaConsoleApp.dll
+C:\QA_REpositry\Sandbox\ShumaylaConsoleApp\obj\Debug\net6.0\refint\ShumaylaConsoleApp.dll
+C:\QA_REpositry\Sandbox\ShumaylaConsoleApp\obj\Debug\net6.0\ShumaylaConsoleApp.pdb
+C:\QA_REpositry\Sandbox\ShumaylaConsoleApp\obj\Debug\net6.0\ShumaylaConsoleApp.genruntimeconfig.cache
+C:\QA_REpositry\Sandbox\ShumaylaConsoleApp\obj\Debug\net6.0\ref\ShumaylaConsoleApp.dll
